@@ -1,13 +1,13 @@
 {
-  "name": "react-anything",
-  "version": "0.1.5",
+  "name": "react-everything-relive",
+  "version": "0.1.9",
   "description": "Module to create non-DOM implementations of React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evilfer/react-anything.git"
+    "url": "https://github.com/ccckblaze/react-anything-relive.git"
   },
   "bugs": {
-    "url": "https://github.com/evilfer/react-anything.git/issues"
+    "url": "https://github.com/ccckblaze/react-everything-relive.git/issues"
   },
   "keywords": [
     "React"
@@ -23,7 +23,7 @@
       "/.idea/"
     ]
   },
-  "author": "Eloy Villasclaras <eloy.villasclaras@gmail.com>",
+  "author": "ccckblaze <ccckblaze@sina.com>",
   "license": "BSD",
   "devDependencies": {
     "jest-cli": "0.10.0"
